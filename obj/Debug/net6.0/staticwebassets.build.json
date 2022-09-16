@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jzVgZLlzRazSavASuOLsNwnbLS//FtakZZ0fwaIYAHo=",
+  "Source": "api_ldap",
+  "BasePath": "_content/api_ldap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
